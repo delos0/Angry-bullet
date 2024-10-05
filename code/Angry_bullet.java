@@ -10,7 +10,7 @@ import java.lang.String;
  * Student ID: 2022400372
  */
 
-public class YeldosUrashev {
+public class Angry_bullet {
     public static void main(String[] args) {
 
         // Game Parameters
