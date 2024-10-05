@@ -5,9 +5,8 @@ import java.lang.String;
 /**
  * Program uses projectile motion to simulate Angry Birds game
  *
- * @author Yeldos Urashev, Student ID: 2022400372
+ * @author Yeldos Urashev
  * @since 20.03.2024
- * Student ID: 2022400372
  */
 
 public class Angry_bullet {
